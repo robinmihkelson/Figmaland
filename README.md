@@ -1,4 +1,4 @@
 Website made from figma design
 
-*No "absolute"
-
+* No "absolute"
+* Mobile view required
